@@ -1,0 +1,5 @@
+[1118/212814.305:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[1120/041132.281:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1121/035106.342:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\LENOVO\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d46ddbfd-213e-4aec-b06e-a7e7f4e26262: The system cannot find the path specified. (0x3)
+[1125/220106.915:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\LENOVO\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4ae6e697-20ab-4d46-9a45-da77893a5a0e: The system cannot find the path specified. (0x3)
+[1125/220424.979:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
